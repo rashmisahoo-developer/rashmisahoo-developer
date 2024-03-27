@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently interested on **Artificial Intelligence and Data Science**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Microsoft Azure**
 
-- 🤝 I’m looking for help with **Computer Vision**
+- 🤝 I’m looking for help with **Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rashmisahoo-developer](https://github.com/rashmisahoo-developer)
 
-- 💬 Ask me about **Machine Learning and NLP**
+- 💬 Ask me about **Machine Learning and Data Science**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rashmikumarisahoo**
 
